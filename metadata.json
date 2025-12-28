@@ -1,0 +1,7 @@
+{
+  "name": "RF-MCU Signal Processor Pro",
+  "description": "An interactive dashboard showcasing academic RF signal processing on microcontrollers, featuring real-time signal simulation, filtering visualizations, and an AI-powered DSP assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
